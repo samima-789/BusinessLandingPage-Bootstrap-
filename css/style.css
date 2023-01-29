@@ -32,4 +32,85 @@ header nav ul li a i{
     border-radius: 70px;
 }
 
+.agency{
+    border-radius: 20px;
+    
+}
+
+.form form{
+	width: 380px;
+	max-width: 100%;
+	position: relative;
+    color: #fff;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.form form input:first-child{
+	display: inline-block;
+	width: 100%;
+	outline: none;
+	padding: 16px 140px 16px 15px;
+    border: 1px solid #fff;
+	border-radius: 30px;
+    background-color: #CFB3FF;
+    color: #fff;
+}
+
+.form form input:last-child{
+	position: absolute;
+	display: inline-block;
+	outline: none;
+	border: none;
+	background: #fff;
+	color: #B28AF8;
+	padding: 12px 30px;
+	top: 5px;
+	right: 6px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.contact-details i{
+    font-size: 20px;
+    color: #956AE1;
+    background-color: #fff;
+    border-radius: 50px;
+}
+
+.contact-details{
+    font-size: 12px;
+}
+
+.contact-info p{
+    font-size: 10px;
+}
+
+.contact-item ul{
+    list-style: none;
+    font-size: 12px;
+}
+
+.list{
+    list-style: none;
+    font-size: 12px;
+}
+
+.social-icon{
+    display: flex;
+}
+
+.social-icon ul li{
+    display: inline-block;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+     
+}
+
+.social-icon ul li i{
+    background-color: #CFB3FF;
+    border-radius: 30px;
+}
+
 
