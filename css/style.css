@@ -1,3 +1,4 @@
+/*----------Header part------------------*/
 header nav ul li a i{
       color: #B28AF8;
       background-color: #fff;
@@ -23,6 +24,8 @@ header .hire button:hover{
 }
 
 
+
+/*-----------------------Body Part---------------------*/
 .body-details .btn{
     color: #B28AF8;
     border-radius: 50px;
@@ -39,24 +42,31 @@ header .hire button:hover{
 }
 
 
-
+/*--------------------About Part-------------------------------*/
 .about-details .btn1{
     color: #B28AF8;
     border-radius: 50px;
 }
 
 
+
+/*---------------Marketing Agency part---------------------------*/
 .clients{
     width: 80%;
     background-color: #956AE1;
     border-radius: 70px;
 }
 
+
+/*----------------Digital Agency Part-------------------------*/
 .agency{
     border-radius: 20px;
     
 }
 
+
+
+/*-------------------Footer Part---------------------------*/
 .form form{
 	width: 380px;
 	max-width: 100%;
