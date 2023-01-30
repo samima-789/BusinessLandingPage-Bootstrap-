@@ -5,29 +5,49 @@ header nav ul li a i{
       border-radius: 30px;
 }
 
+header nav ul li a{
+    transition: 1s;
+}
+
+header nav ul li a:hover{
+    transform: scale(1.1);
+}
+
+header .hire button{
+    transition: 1s;
+}
+
+header .hire button:hover{
+    background-color: #fff;
+    color: #956AE1;
+}
 
 
-
-.col-6 .btn{
-    width: 30%;
+.body-details .btn{
     color: #B28AF8;
     border-radius: 50px;
 }
 
-.col-6 .btn1{
-    width: 30%;
-    color: #B28AF8;
-    border-radius: 50px;
+.body-details .btn:hover{
+    background-color: #B28AF8;
+    color: #fff;
 }
 
-.col-6 i{
+.body-details i{
     background-color: #CFB3FF;
     border-radius: 30px;
 }
 
 
+
+.about-details .btn1{
+    color: #B28AF8;
+    border-radius: 50px;
+}
+
+
 .clients{
-    width: 60%;
+    width: 80%;
     background-color: #956AE1;
     border-radius: 70px;
 }
